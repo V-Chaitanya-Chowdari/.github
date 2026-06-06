@@ -11,9 +11,9 @@
 <br/>
 
 <!-- HEADLINE BADGES -->
+![](https://img.shields.io/badge/⚡_CEO_%40_VC_AI_Creator-0d1117?style=for-the-badge&labelColor=7c3aed&color=0d1117)
 ![](https://img.shields.io/badge/⚡_CEO_%40_Commonly_Technologies-0d1117?style=for-the-badge&labelColor=7c3aed&color=0d1117)
 ![](https://img.shields.io/badge/🎓_B.E._CSE_%40_BIET_Davangere-0d1117?style=for-the-badge&labelColor=1d4ed8&color=0d1117)
-![](https://img.shields.io/badge/📍_Davangere,_Karnataka-0d1117?style=for-the-badge&labelColor=059669&color=0d1117)
 
 <br/><br/>
 
@@ -27,8 +27,6 @@
 
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `$ whoami`
@@ -36,25 +34,23 @@
 ```yaml
 ┌──────────────────────────────────────────────────────────────────┐
 │                                                                  │
-│   name        : V. Chaitanya Chowdari                           │
-│   alias       : "India's Youngest AI Systems Builder"           │
-│   role        : Founder & CEO — Commonly Technologies           │
-│   company     : Commonly Technologies, Davangere, KA, India     │
-│   positioning : "Built from Davangere, for the world."          │
-│   education   : B.E. CSE @ BIET + AI/DS Coursework @ IIT Indore│
-│   focus       : AI Infrastructure · EdTech · Enterprise SaaS   │
-│   email       : vchaitanya@chowdari.in                          │
-│   web         : https://chowdari.in                             │
-│   status      : Building. Shipping. Scaling. 🚀                 │
+│   name        : V. Chaitanya Chowdari                            │
+│   alias       : "India's Youngest AI Systems Builder"            │
+│   role        : Founder & CEO — Commonly Technologies            │
+│   company     : Commonly Technologies, Davangere, KA, India      │
+│   positioning : "Built from Davangere, for the world."           │
+│   education   : B.E. CSE @ BIET + AI/DS Coursework @ IIT Indore  │
+│   focus       : AI Infrastructure · EdTech · Enterprise SaaS     │
+│   email       : vchaitanya@chowdari.in                           │
+│   web         : https://chowdari.in                              │
+│   status      : Building. Shipping. Scaling. 🚀                  │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
-I don't just build apps — I build **AI infrastructure** that powers institutions, enterprises, and founders at scale. My company **Commonly Technologies** operates three products targeting India's ₹1 Lakh Crore+ EdTech and enterprise SaaS market. I operate at the full stack intersection of **AI systems engineering, product architecture, and enterprise GTM.**
+I don't just build apps I build **AI infrastructure** that powers institutions, enterprises, and founders at scale. My company **Commonly Technologies** operates three products targeting India's ₹1 Lakh Crore+ EdTech and enterprise SaaS market. I operate at the full stack intersection of **AI systems engineering, product architecture, and enterprise GTM.**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 ## 🏢 Commonly Technologies — Founder & CEO
 
@@ -107,8 +103,6 @@ AI curated intelligence for operators and founders. The daily briefing system th
 </tr>
 </table>
 
----
-
 ## 🚀 VC AI Creator — Founder & CEO
 
 <div align="center">
@@ -118,8 +112,6 @@ AI curated intelligence for operators and founders. The daily briefing system th
 </div>
 
 Full service AI powered marketing firm serving enterprise clients across **content strategy, campaign execution, and creative production**. Delivering AI generated proposals, service agreements, and end to end campaign execution at scale. Built on a proprietary prompt system auto generating marketing assets across **12 service verticals** under Indian law compliance.
-
----
 
 ## 🎓 Education
 
@@ -143,8 +135,6 @@ Full service AI powered marketing firm serving enterprise clients across **conte
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 ## 🏗️ Flagship Builds & Ventures
 
